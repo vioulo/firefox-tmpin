@@ -1,0 +1,118 @@
+{
+  "extensionName": {
+    "message": "Tmpin",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Pin your frequently used web pages for quick access",
+    "description": "Extension description"
+  },
+  "pinButton": {
+    "message": "Pin Current Page",
+    "description": "Pin button text"
+  },
+  "pinButtonTooltip": {
+    "message": "Pin the current page",
+    "description": "Pin button tooltip"
+  },
+  "emptyState": {
+    "message": "No pinned pages yet",
+    "description": "Empty state message"
+  },
+  "emptyStateHint": {
+    "message": "Right-click on a page to pin it",
+    "description": "Empty state hint"
+  },
+  "deleteButtonTooltip": {
+    "message": "Delete",
+    "description": "Delete button tooltip"
+  },
+  "contextMenuPin": {
+    "message": "Pin this page",
+    "description": "Context menu pin option"
+  },
+  "contextMenuUnpin": {
+    "message": "Unpin this page",
+    "description": "Context menu unpin option"
+  },
+  "cannotPinSpecialPage": {
+    "message": "Cannot pin this page",
+    "description": "Cannot pin special page message"
+  },
+  "alreadyPinned": {
+    "message": "This page is already pinned",
+    "description": "Already pinned message"
+  },
+  "pinnedSuccess": {
+    "message": "Page pinned successfully",
+    "description": "Pinned success message"
+  },
+  "unpinnedSuccess": {
+    "message": "Page unpinned successfully",
+    "description": "Unpinned success message"
+  },
+  "addNewGroup": {
+    "message": "Add group",
+    "description": "Add group button text"
+  },
+  "addNewGroupTooltip": {
+    "message": "Add new group",
+    "description": "Add group button tooltip"
+  },
+  "editGroup": {
+    "message": "Edit Group",
+    "description": "Edit group dialog title"
+  },
+  "deleteGroup": {
+    "message": "Delete Group",
+    "description": "Delete group dialog title"
+  },
+  "groupName": {
+    "message": "Group name",
+    "description": "Group name placeholder"
+  },
+  "newGroup": {
+    "message": "New Group",
+    "description": "New group dialog title"
+  },
+  "cannotDeleteDefaultGroup": {
+    "message": "Cannot delete default group",
+    "description": "Cannot delete default group message"
+  },
+  "confirmDeleteGroup": {
+    "message": "Are you sure you want to delete this group? All pages in this group will be moved to Default group.",
+    "description": "Confirm delete group message"
+  },
+  "notice": {
+    "message": "Notice",
+    "description": "Notice dialog title"
+  },
+  "confirm": {
+    "message": "Confirm",
+    "description": "Confirm dialog title"
+  },
+  "input": {
+    "message": "Input",
+    "description": "Input dialog title"
+  },
+  "warning": {
+    "message": "Warning",
+    "description": "Warning dialog title"
+  },
+  "success": {
+    "message": "Success",
+    "description": "Success dialog title"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "Cancel button text"
+  },
+  "ok": {
+    "message": "OK",
+    "description": "OK button text"
+  },
+  "noPagesInGroup": {
+    "message": "No pages in this group",
+    "description": "No pages in group message"
+  }
+}

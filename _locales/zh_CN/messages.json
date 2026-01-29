@@ -1,0 +1,118 @@
+{
+  "extensionName": {
+    "message": "Tmpin",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "钉住你常用的网页，快速访问",
+    "description": "Extension description"
+  },
+  "pinButton": {
+    "message": "钉住当前页面",
+    "description": "Pin button text"
+  },
+  "pinButtonTooltip": {
+    "message": "钉住当前页面",
+    "description": "Pin button tooltip"
+  },
+  "emptyState": {
+    "message": "还没有钉住的页面",
+    "description": "Empty state message"
+  },
+  "emptyStateHint": {
+    "message": "右键点击页面来钉住它",
+    "description": "Empty state hint"
+  },
+  "deleteButtonTooltip": {
+    "message": "删除",
+    "description": "Delete button tooltip"
+  },
+  "contextMenuPin": {
+    "message": "钉住此页面",
+    "description": "Context menu pin option"
+  },
+  "contextMenuUnpin": {
+    "message": "取消钉住",
+    "description": "Context menu unpin option"
+  },
+  "cannotPinSpecialPage": {
+    "message": "无法钉住此页面",
+    "description": "Cannot pin special page message"
+  },
+  "alreadyPinned": {
+    "message": "此页面已经被钉住了",
+    "description": "Already pinned message"
+  },
+  "pinnedSuccess": {
+    "message": "页面钉住成功",
+    "description": "Pinned success message"
+  },
+  "unpinnedSuccess": {
+    "message": "页面取消钉住成功",
+    "description": "Unpinned success message"
+  },
+  "addNewGroup": {
+    "message": "新分组",
+    "description": "Add group button text"
+  },
+  "addNewGroupTooltip": {
+    "message": "新建分组",
+    "description": "Add group button tooltip"
+  },
+  "editGroup": {
+    "message": "编辑分组",
+    "description": "Edit group dialog title"
+  },
+  "deleteGroup": {
+    "message": "删除分组",
+    "description": "Delete group dialog title"
+  },
+  "groupName": {
+    "message": "分组名称",
+    "description": "Group name placeholder"
+  },
+  "newGroup": {
+    "message": "新建分组",
+    "description": "New group dialog title"
+  },
+  "cannotDeleteDefaultGroup": {
+    "message": "无法删除默认分组",
+    "description": "Cannot delete default group message"
+  },
+  "confirmDeleteGroup": {
+    "message": "确定要删除此分组吗？该分组中的所有页面将移动到默认分组。",
+    "description": "Confirm delete group message"
+  },
+  "notice": {
+    "message": "提示",
+    "description": "Notice dialog title"
+  },
+  "confirm": {
+    "message": "确认",
+    "description": "Confirm dialog title"
+  },
+  "input": {
+    "message": "输入",
+    "description": "Input dialog title"
+  },
+  "warning": {
+    "message": "警告",
+    "description": "Warning dialog title"
+  },
+  "success": {
+    "message": "成功",
+    "description": "Success dialog title"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "Cancel button text"
+  },
+  "ok": {
+    "message": "确定",
+    "description": "OK button text"
+  },
+  "noPagesInGroup": {
+    "message": "该分组中没有页面",
+    "description": "No pages in group message"
+  }
+}
