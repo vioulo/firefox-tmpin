@@ -1,6 +1,7 @@
-# Tmpin 浏览器扩展
+# Tmpin 浏览器扩展 - firefox
 
 [English Version](./README_EN.md)
+[扩展地址](https://addons.mozilla.org/zh-CN/firefox/addon/tmpin/)
 
 ## 项目介绍
 Tmpin 是一款专为 Firefox 浏览器设计的轻量级扩展，帮助用户快速访问和管理常用网页。通过简单直观的界面，用户可以轻松钉住、分组和管理常用链接，提高浏览效率。
