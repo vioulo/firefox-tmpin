@@ -1,7 +1,8 @@
 
-# Tmpin Browser Extension
+# Tmpin Browser Extension - firefox
 
 [中文版本](./README.md)
+[addon url](https://addons.mozilla.org/zh-CN/firefox/addon/tmpin/)
 
 ## Project Introduction
 Tmpin is a lightweight extension designed for Firefox browsers, helping users quickly access and manage frequently used web pages. Through a simple and intuitive interface, users can easily pin, group, and manage common links to improve browsing efficiency.
@@ -46,7 +47,7 @@ Tmpin is a lightweight extension designed for Firefox browsers, helping users qu
 ### Project Structure
 ```
 tmpin/
-├── _locales/            # Multi-language files
+├── _locales/           # Multi-language files
 │   ├── en/             # English translation
 │   └── zh_CN/          # Chinese translation
 ├── icons/              # Extension icons
